@@ -38,7 +38,7 @@ Usas herramientas de software antiguas o poco eficientes o procesos en los que u
             """
     )
     with imagen_columna:
-        st.image("img/\desarrolloApp.png")
+        st.image("img/desarrolloApp.png")
     
 
 #Servicios
@@ -62,4 +62,4 @@ with texto_columna:
     )
     st.write("[Ver servicios >](https://streamlit.io/)")
     
-    with imagen_columna: st.image("img/image.png")
+    with imagen_columna: st.image("img/devimag.png")
