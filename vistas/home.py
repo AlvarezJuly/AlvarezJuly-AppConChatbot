@@ -34,8 +34,8 @@ No tienes claras las métricas de tu negocio y quieres tomar decisiones basadas 
 Usas herramientas de software antiguas o poco eficientes o procesos en los que usas papel y boligrafo
 
 ***Si esto suena interesante para ti puedes contactarnos a través del formulario que encontrarás al final de la página***
-
-            """
+    
+      """
     )
     with imagen_columna:
         st.image("img/desarrolloApp.png")
