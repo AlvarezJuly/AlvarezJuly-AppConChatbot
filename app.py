@@ -35,3 +35,5 @@ pg = st.navigation(
 
 #  NAVEGACION 
 pg.run()
+
+#Desplegada:  https://aplicacionsofti.streamlit.app/
