@@ -72,9 +72,7 @@ with texto_columna:
     
     with imagen_columna: 
         path = get("gift/hombreDev.json") 
-        st_lottie (path)
-        
-        
+        st_lottie (path) 
     #st.image("img/devimag.png")
 
 
