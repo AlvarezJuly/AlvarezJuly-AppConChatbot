@@ -10,7 +10,7 @@ home = st.Page(
 
 acerca_de = st.Page(
     page="vistas/acerca_de.py",
-    title="Aerca de",
+    title="Acerca de",
     icon=":material/account_circle:",
 )
 

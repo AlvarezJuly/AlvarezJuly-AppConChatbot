@@ -92,7 +92,7 @@ with st.container():
     st.write("---")
     p1, p2, p3 = st.columns((3))
     with p1:
-        st.subheader("Contatos")
+        st.subheader("Contactos")
         st.write("***Dirección:*** Juigalpa, Chontales-Nicaragua")
         st.write("***Teléfono:*** +(505) 5784-5840")
     with p2:
