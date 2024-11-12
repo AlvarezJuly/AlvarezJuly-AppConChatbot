@@ -3,6 +3,7 @@ import streamlit as st
 import time
 
 
+
 def is_valid_email(email):
         email_pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
         return re.match(email_pattern, email) is not None
@@ -33,3 +34,4 @@ def contact_form():
                         time.sleep(2)
                         st.rerun()
 
+#actualizar el archivo de requerimientos   pip freeze > requirements.txt
